@@ -5,7 +5,7 @@ I am Misdan Wijaya, people call me Misdan, I am a bachelor majoring in Computer 
 [![Linkedin Badge](https://img.shields.io/badge/-misdanwijaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/misdanwijaya/)](https://www.linkedin.com/in/misdan-wijaya-747132139/)
 [![Instagram Badge](https://img.shields.io/badge/-misdan.wijaya07-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/misdan.wijaya07/)](https://www.instagram.com/misdan.wijaya07/?hl=id)
 [![Youtube Badge](https://img.shields.io/badge/-MisdanWijaya07-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/MisdanWijaya07)](https://www.youtube.com/c/MisdanWijaya07)
-[![Gmail Badge](https://img.shields.io/badge/-misdan.wijaya07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:misdan.wijaya07@gmail.com)](mailto:misdan.wijaya07@gmail.com-)
+[![Gmail Badge](https://img.shields.io/badge/-misdan.wijaya07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:misdan.wijaya07@gmail.com)](mailto:misdan.wijaya07@gmail.com)
 
 ## ⚡ Technologies
 
