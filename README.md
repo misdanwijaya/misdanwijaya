@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/misdanwijaya/misdanwijaya/master/wave.gif" width="30px">
 
-I am Misdan Wijaya, people call me Misdan, I am a bachelor majoring in Computer Science from [Universitas Pendidikan Indonesia](https://www.upi.edu/). I really like the world of technology and football. Currently work as a Data Engineer at [Jabar Digital Service](https://digitalservice.jabarprov.go.id/).
+I am Misdan Wijaya, people call me Misdan, I am a bachelor majoring in Computer Science from [Universitas Pendidikan Indonesia](https://www.upi.edu/). I really like the world of technology and football. Currently work as a Data Architect at [Jabar Digital Service](https://digitalservice.jabarprov.go.id/).
 
 [![Linkedin Badge](https://img.shields.io/badge/-misdanwijaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/misdanwijaya/)](https://www.linkedin.com/in/misdan-wijaya-747132139/)
 [![Instagram Badge](https://img.shields.io/badge/-misdan.wijaya07-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/misdan.wijaya07/)](https://www.instagram.com/misdan.wijaya07/?hl=id)
